@@ -1,10 +1,9 @@
-
 package pl.sda.arppl.pracawzespole;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class KlasaRobson {
+public class KlasaRobert {
     public static void main(String[] args) {
         System.out.println("Podaj imie!");
         Scanner scanner = new Scanner(System.in);
